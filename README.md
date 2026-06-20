@@ -1,5 +1,14 @@
 # varying-agency-fairness
-Code and data for the paper "Effects of Time-Varying Perceived Agency on Fairness Judgments Towards Robots"
+Code and data for the paper "Effects of Time-Varying Perceived Agency on Fairness Judgments Towards Robots." If you use this data or code, please cite:
+
+```latex
+@inproceedings{shin26-varying-agency-fairness,
+  author    = {Inyoung Shin and Houston Claure and Mai Blaustein and J. Gregory Trafton and Marynel V\'azquez},
+  title     = {Effects of Time-Varying Perceived Agency on Fairness Judgments Towards Robots},
+  booktitle = {Proceedings of the 35th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)},
+  year      = {2026},
+}
+```
 
 ## Experimental Conditions
 
@@ -12,6 +21,7 @@ Participants were randomly assigned to one of four conditions:
 | 2A | Low Agency → High Agency |
 | 2B | Low Agency → Low Agency |
 
+For a description of the prompts used in each scenario, please see [`survey/Phases.md`](survey/Phases.md). For a visual look of the survey, see [`survey/survey-example-highPA-lowPA.png`](survey/survey-example-highPA-lowPA.png).
 
 ### Administrative Variables
 
