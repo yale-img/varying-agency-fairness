@@ -23,6 +23,8 @@ Participants were randomly assigned to one of four conditions:
 
 For a description of the prompts used in each scenario, please see [`survey/Phases.md`](survey/Phases.md). For a visual look of the survey, see [`survey/survey-example-highPA-lowPA.png`](survey/survey-example-highPA-lowPA.png).
 
+The sections below describe the columns in the dataset [`dataset/experimentdata.csv`](dataset/experimentdata.csv).
+
 ### Administrative Variables
 
 | Variable | Description |
