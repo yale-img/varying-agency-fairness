@@ -154,3 +154,10 @@ All trust items use a 1–8 scale. A value of 9 indicates "Not Applicable."
 - Fairness, blame, trust, and PA were measured after each phase.
 - Open-ended responses were collected to supplement quantitative measures.
 - Attention checks were included to ensure data quality.
+
+## License
+
+- **Code** in [`data_analysis_code/`](data_analysis_code/) is licensed under the [MIT License](data_analysis_code/LICENSE).
+- **Data** in [`dataset/`](dataset/) is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](dataset/LICENSE-DATA).
+
+If you use this code or data, please cite the paper at the top of this readme.
