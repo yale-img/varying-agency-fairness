@@ -94,8 +94,8 @@ All trust items use a 1–8 scale. A value of 9 indicates "Not Applicable."
 |-----------|-------------|
 | Q74_1 | PA Item 1 (1–5 scale) |
 | Q74_3 | PA Item 2 (1–5 scale) |
-| Q74_4 | PA Item 3 1–5 scale) |
-| Q74_5 | PA Item 4 1–5 scale) |
+| Q74_4 | PA Item 3 (1–5 scale) |
+| Q74_5 | PA Item 4 (1–5 scale) |
 
 #### Phase 2
 
