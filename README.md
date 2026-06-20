@@ -1,4 +1,4 @@
-# varying-agency-fairness
+# Effects of Time-Varying Perceived Agency on Fairness
 Code and data for the paper "Effects of Time-Varying Perceived Agency on Fairness Judgments Towards Robots." If you use this data or code, please cite:
 
 ```latex
